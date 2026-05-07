@@ -20,3 +20,13 @@ O aplicativo permite:
 ## 🚀 Objetivo
 
 Facilitar a visualização e compreensão dos dados por meio de gráficos e tabelas dinâmicas de forma interativa e simples.
+
+## 🌐 Link do aplicativo
+
+Acesse o dashboard online aqui:
+
+https://dashboard-veiculos-usados.onrender.com
+
+## 📁 Repositório GitHub
+
+https://github.com/eryka25/PROJETO_SPRINT_5_GITHUB
